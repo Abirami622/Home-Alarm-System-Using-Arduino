@@ -15,3 +15,6 @@ The sensor detect any motion in its permissible range and triggers the alarm.
 It will also send the signal to Arduino which processes the signal and set off the alarm along with
 detection message on display. With this system we can easily set up a security alarm in our home for
 unwanted intruders.
+
+
+
